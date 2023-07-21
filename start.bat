@@ -1,0 +1,1 @@
+start cmd.exe /c "python -m venv proj && proj\Scripts\activate.bat && python install_req.py"
